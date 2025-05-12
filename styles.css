@@ -1,12 +1,8 @@
-.gradient-button {
+.tox .tox-tbtn[data-mce-name='inserttext'] {
   background: linear-gradient(45deg, #FF512F, #DD2476);
   color: white;
   border: none;
   padding: 8px 16px;
   border-radius: 4px;
   cursor: pointer;
-}
-
-.gradient-button:hover {
-  background: linear-gradient(45deg, #DD2476, #FF512F);
 }
